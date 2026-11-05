@@ -6,8 +6,11 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 
 ## Features:
 Detects the face in an image.
+
 Places a stylish sunglass overlay perfectly on the face.
+
 Works seamlessly with individual passport-size photos.
+
 Customizable for different sunglasses styles or photo types.
 
 ## Technologies Used:
@@ -19,12 +22,16 @@ Numpy for array manipulations
 
 ## How to Use:
 Clone this repository.
+
 Add your passport-sized photo to the images folder.
+
 Run the script to see your "cool" transformation!
 
 ## Applications:
 Learning basic image processing techniques.
+
 Adding flair to your photos for fun.
+
 Practicing computer vision workflows
 
 ## PROGRAM:
