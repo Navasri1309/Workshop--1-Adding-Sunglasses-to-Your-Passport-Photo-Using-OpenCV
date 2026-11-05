@@ -12,7 +12,9 @@ Customizable for different sunglasses styles or photo types.
 
 ## Technologies Used:
 Python
+
 OpenCV for image processing
+
 Numpy for array manipulations
 
 ## How to Use:
